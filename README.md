@@ -16,4 +16,3 @@ Area of improvement
 1. Function for user to add new category
 2. Update function for replacing category instead forcing the user to delete before insert the same category
 3. To improve web design
-4. 
